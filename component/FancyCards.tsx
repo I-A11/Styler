@@ -39,6 +39,8 @@ const styles = StyleSheet.create({
     height: 360,
     borderRadius: 6,
     margin: 12,
+    flex: 1,
+    alignSelf: 'center',
   },
   cardElevator: {
     backgroundColor: '#f1eaea',
