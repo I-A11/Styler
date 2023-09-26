@@ -23,10 +23,10 @@ const ActionCard = () => {
           </Text>
         </View>
         <Image
-          style={styles.cardImage}
           source={{
-            uri: 'https://reactjs.org/logo-og.png',
+            uri: 'https://cdn.pixabay.com/photo/2017/03/29/15/18/tianjin-2185510_1280.jpg',
           }}
+          style={styles.cardImage}
         />
         <View style={styles.bodyContainer}>
           <Text numberOfLines={3}>
